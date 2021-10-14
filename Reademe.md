@@ -40,3 +40,7 @@ It is possible that Discord Together applications may not load sometimes. To fix
 **- My invites show 'The user has been banned from this guild' whenever I make a new invite.**
 
 This can happen if you have any alt accounts/bots banned from that server since Discord bans users via IP. So you would have to unban these accounts/bots to get your invites working again
+
+**Here is a little Preview:**
+
+![Screenshot 2021-10-14 101454](https://user-images.githubusercontent.com/76491068/137316486-fab7b585-9256-4357-86da-40ad57d2c908.png)
