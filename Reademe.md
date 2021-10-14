@@ -14,7 +14,7 @@
 - Debug mode for invalid invites
 
 
-**FAQ**
+ 📌 FAQ
 
 
 **- I am receiving an error saying 'Activity Ended' when I click the invite link.**
@@ -44,3 +44,5 @@ This can happen if you have any alt accounts/bots banned from that server since 
 **Here is a little Preview:**
 
 ![Screenshot 2021-10-14 101454](https://user-images.githubusercontent.com/76491068/137316486-fab7b585-9256-4357-86da-40ad57d2c908.png)
+
+read https://docs.discord-together.ml/ for more information 
